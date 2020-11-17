@@ -1,11 +1,7 @@
 import streamlit as st
-import pandas as pd
-from sklearn import datasets
-from PIL import Image
-
 import requests
+from PIL import Image
 import json
-import io
 from PIL import ImageDraw
 
 # set to your own subscription key value
