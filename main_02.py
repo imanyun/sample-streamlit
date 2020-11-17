@@ -3,6 +3,7 @@ import requests
 from PIL import Image
 import json
 from PIL import ImageDraw
+import io
 
 # set to your own subscription key value
 subscription_key = '144b7aa4efa94ec1ae859eab12580946'
